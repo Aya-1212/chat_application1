@@ -1,0 +1,26 @@
+name: chat_application_eraasoft
+description: "A new Flutter project."
+publish_to: 'none'
+version: 0.1.0
+
+environment:
+  sdk: '>=3.2.6 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/flowers.jpg
+    - assets/ganna.jpg
+    - assets/khadeja.jpg
+    - assets/radwa.jpg
+    - assets/shahd.jpg
+    - assets/shrouk.jpg
